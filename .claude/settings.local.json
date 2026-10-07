@@ -1,0 +1,6 @@
+{
+  "skillOverrides": {
+    "code-review": "name-only",
+    "clean-code-guard": "name-only"
+  }
+}
